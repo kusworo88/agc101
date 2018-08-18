@@ -54,11 +54,11 @@ nav.nav .fa{margin-right:5px;}
 .posts-list .posts-list-att .posts-list-location{position:absolute;top:5px;right:6px;}
 .posts-list .posts-list-att .marketplace{display:block;height:18px;background:#f00s;width:100px;float:left;	
 	background-repeat: no-repeat;background-size: contain;background-position:left center;}
-.posts-list .posts-list-att .tokopedia{background-image:url('https://github.com/kusworo88/agc101/blob/master/tokopedia.png');background-position: -1px center;}
-.posts-list .posts-list-att .bukalapak{background-image:url('https://github.com/kusworo88/agc101/blob/master/bukalapak.png');background-position: -5px center;}
-.posts-list .posts-list-att .blanja{background-image:url('https://github.com/kusworo88/agc101/blob/master/blanja.png');background-position: -2px center;}
-.posts-list .posts-list-att .lazada{background-image:url('https://github.com/kusworo88/agc101/blob/master/lazada.png');background-position: -1px center;}
-.posts-list .posts-list-att .blibli{background-image:url('https://github.com/kusworo88/agc101/blob/master/blibli.png');background-position: -1px center;}
+.posts-list .posts-list-att .tokopedia{background-image:url('https://raw.githubusercontent.com/kusworo88/agc101/f7b07f54/tokopedia.png');background-position: -1px center;}
+.posts-list .posts-list-att .bukalapak{background-image:url('https://raw.githubusercontent.com/kusworo88/agc101/f7b07f54/bukalapak.png');background-position: -5px center;}
+.posts-list .posts-list-att .blanja{background-image:url('https://raw.githubusercontent.com/kusworo88/agc101/f7b07f54/blanja.png');background-position: -2px center;}
+.posts-list .posts-list-att .lazada{background-image:url('https://raw.githubusercontent.com/kusworo88/agc101/f7b07f54/lazada.png');background-position: -1px center;}
+.posts-list .posts-list-att .blibli{background-image:url('https://cdn.rawgit.com/kusworo88/agc101/f7b07f54/blibli.png');background-position: -1px center;}
 .posts-list .posts-list-bottom{text-align:center;padding:10px 0;clear:both;display:block;}
 .posts-list .posts-list-bottom a{background:#f90;color:#fff;padding:5px 25px;border-radius:5px;font-size:12px;}
 
